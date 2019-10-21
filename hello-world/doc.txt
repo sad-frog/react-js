@@ -1,0 +1,2 @@
+use npm run build
+and onpen index.html in browser
