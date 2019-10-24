@@ -1,0 +1,7 @@
+.failed-validation {
+  border-color: red;
+}
+
+.accepted-validation {
+  border-color: green;
+}
